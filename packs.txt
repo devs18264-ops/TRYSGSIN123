@@ -1,0 +1,11 @@
+name:CoolGuy
+bio:Just vibing in VC 🎵
+avatar_url:
+---
+name:MusicLover
+bio:🎧 Living in the music
+avatar_url:
+---
+name:Gamer
+bio:🎮 Gaming all day
+avatar_url:
